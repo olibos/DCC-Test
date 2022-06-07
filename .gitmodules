@@ -1,0 +1,3 @@
+[submodule "lib/DCCpp"]
+	path = lib/DCCpp
+	url = https://github.com/Locoduino/DCCpp.git
